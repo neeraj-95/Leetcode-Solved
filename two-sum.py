@@ -9,5 +9,5 @@ def twoSum(self, nums, target):
             num = target - j
             if num in dic:
                 return [dic[num],i]
-            dic[j] = i 
+            dic[j] = i
         return []
