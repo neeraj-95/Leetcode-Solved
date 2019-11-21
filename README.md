@@ -1,2 +1,3 @@
 #LeetCode
-Here you can find solution to leetcode problems.
+
+Here you can find solutions to leet-code problems.
